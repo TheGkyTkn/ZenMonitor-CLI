@@ -15,7 +15,7 @@
 
 ## 📸 Ekran Görüntüsü
 
-> *Geliştirici Notu: Buraya projenin Mini HUD ve Tam Ekran modundaki ekran görüntülerini ekleyebilirsiniz.*
+![ZenMonitor Ekran Görüntüsü](img/screenshot.png)
 
 ---
 
